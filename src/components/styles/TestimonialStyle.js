@@ -89,14 +89,14 @@ export const Cactus = styled.div`
     width: 80vh;
     height: 110vh;
     position: relative;
-    bottom: 72px;
+    bottom: 24px;
     left: 112px;
   } 
 `;
 
 export const Icons = styled.div`
   position: relative;
-  bottom: 140px;
+  bottom: 200px;
   right: 50px;
 
   .icons {
