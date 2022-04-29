@@ -96,7 +96,7 @@ export const Cactus = styled.div`
 
 export const Icons = styled.div`
   position: relative;
-  bottom: 200px;
+  bottom: 215px;
   right: 50px;
 
   .icons {
