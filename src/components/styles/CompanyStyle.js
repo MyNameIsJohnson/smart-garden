@@ -2,11 +2,11 @@ import styled from 'styled-components';
 
 export const Container = styled.div`
   position: relative;
-  background: #FFFDF0;
+  background: #f3da8e69;
   text-align: center;
 
   display: grid;
-  height: 100vh;
+  height: 75vh;
   width: 100vw; 
   list-style: none;
   margin: 0;
@@ -22,32 +22,47 @@ export const Container = styled.div`
 
     border-top: 2px solid #466C3D;
     border-bottom: 2px solid #466C3D;
-    margin: 10px auto; 
+    margin: 40px auto 20px; 
     height: 35px;
   }
   div {
     display: flex;
+    height: 58vh;
     img {
-      width: 50%; 
-      height: 70vh;
+      width: 40%; 
+      height: 60vh;
+      margin: 0 auto;
+    }
+    .leftImage {
+      margin-right: 0;
+    }
+    .rightImage {
+      margin-left: 0;
     }
   }
+`;
 
-  p {
-    color: #466C3D;
-    width: 662px;
-    font-family: 'Merriweather';
-    font-weight: 400;
-    font-size: 16px;
-    margin: 10px auto;
-    text-align: justify;
-  }
-  & .carotIcon {
-    height: 30px;
-    color: white;
-    position: relative;
-    right: 25px;
-  }
+export const Story = styled.div`
+
+    background: #f2e7c970;
+    display: grid;
+    height: 25vh;
+    p {
+      color: #466C3D;
+      width: 662px;
+      font-family: 'Merriweather';
+      font-weight: 400;
+      font-size: 16px;
+      margin: 20px auto;
+      text-align: justify;
+    }
+    & .carotIcon {
+      height: 30px;
+      color: white;
+      position: relative;
+      right: 25px;
+    }
+  
 `;
 
 export const Button = styled.button`
