@@ -1,70 +1,67 @@
-# Getting Started with Create React App
+# Smart Garden v1.Landing-Pages 
+## Table of contents
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
 
-## Available Scripts
+## Overview
 
-In the project directory, you can run:
+This is a desktop website for a mock business called Smart Garden It was designed and developed to be non-interactive for version 1. But has all the characteristics for user engagement that encourage them to keep exploring. 
 
-### `npm start`
+Special thanks to [Jocelyn Bustamante](https://www.linkedin.com/in/jocelynbusta) and [Oscar Bernardino](https://www.linkedin.com/in/oscar-bernardino-90811616b) for the awesome design, invaluable input, and well organized figma project.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### The challenge
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Develop several React landing pages designed by two of our fellow UX design apprentices.
 
-### `npm test`
+### Designs
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[Figma Project Here](https://www.figma.com/file/qqcje1evJ85n7SxUAXFb54/Untitled?node-id=145%3A216)
 
-### `npm run build`
+### Screenshot 
+<img width="170" alt="Screen Shot 2022-04-29 at 12 19 48 PM" src="https://user-images.githubusercontent.com/38548029/166045821-e729d798-3769-4d3e-9df6-db2d91920068.png">
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Links
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Solution URL: [https://github.com/MyNameIsJohnson/smart-garden](https://github.com/MyNameIsJohnson/smart-garden)
+- Live Site URL: [https://smart-garden.netlify.app](https://smart-garden.netlify.app/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## My process
 
-### `npm run eject`
+### Built with
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Semantic HTML5 markup
+- Custom CSS components
+- CSS Flex Box
+- CSS Grid
+- [React](https://reactjs.org/)
+- [Styled Components](https://styled-components.com/)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### What I learned
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Working with designers gave me a broader understanding of the user experience and user flow. Which contributes to my growth as an engineer.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+I used the knowledge gain from learning [React](https://reactjs.org/) and [Styled Components](https://styled-components.com/), which I used to built out this project.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Useful resources
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [React](https://reactjs.org/)
+- [Styled Components](https://styled-components.com/)
 
-### Code Splitting
+## Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Johnson Thieu - Developer
+  - [Website](https://johnsonthieu-react-portfolio.netlify.app/)
+  - [Linkedin](https://www.linkedin.com/in/johnson-thieu/)
+- Oscar Bernardino - Designer
+  - [Linkedin](https://www.linkedin.com/in/oscar-bernardino-90811616b)
+- Jocelyn Bustamante - Designer
+  - [Linkedin](https://www.linkedin.com/in/jocelynbusta)
