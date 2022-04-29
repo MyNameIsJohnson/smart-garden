@@ -4,6 +4,7 @@ import ProcessSection from './components/ProcessSection/ProcessSection';
 import Testimonial from './components/Testimonial/Testimonial';
 import BotanicalSection from './components/BotanicalSection/BotanicalSection';
 import CompanySection from './components/CompanySection/CompanySection';
+import EndingSection from './components/EndingSection/EndingSection';
 
 function App() {
   return (
@@ -13,7 +14,7 @@ function App() {
       <Testimonial />
       <BotanicalSection />
       <CompanySection />
-    
+      <EndingSection />
     </div>
   );
 }
