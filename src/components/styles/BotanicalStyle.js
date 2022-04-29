@@ -28,13 +28,11 @@ export const Container = styled.div`
     -ms-flex-align: center;
     align-items: center;
     color: #466C3D;
-}
   }
    
   div img {
     width: 900px;
     height: 500px;
-
   }
 
   div p {

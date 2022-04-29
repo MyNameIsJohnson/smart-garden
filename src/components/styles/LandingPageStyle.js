@@ -98,6 +98,7 @@ export const Card = styled.div`
 
 export const Button = styled.button`
   margin: 0 50px 0 90px;
+  padding: 20px;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   border-radius: 20px;
   width: 200px;
