@@ -62,6 +62,6 @@ I used the knowledge gain from learning [React](https://reactjs.org/) and [Style
   - [Website](https://johnsonthieu-react-portfolio.netlify.app/)
   - [Linkedin](https://www.linkedin.com/in/johnson-thieu/)
 - Oscar Bernardino - Designer
-  - [Linkedin](https://www.linkedin.com/in/oscar-bernardino-90811616b)- 
+  - [Linkedin](https://www.linkedin.com/in/oscar-bernardino-90811616b)
 - Jocelyn Bustamante - Designer
   - [Linkedin](https://www.linkedin.com/in/jocelynbusta)
