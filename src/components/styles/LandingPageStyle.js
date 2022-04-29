@@ -46,6 +46,13 @@ export const Navbar = styled.div`
     color: #466C3D;
     font-size: 15px
   }
+
+  & ul li:hover{
+    background: #466C3D;
+    height: 20px;
+    color: white;
+    border-radius: 10px;
+  }
 `;
 
 export const Card = styled.div`
@@ -86,12 +93,25 @@ export const Card = styled.div`
     color: white;
     align-items: center;
     display: flex;
-  
   }
 
-  .learn-btn {
+  & .appointment-btn:hover {
+    background: #f0f5dd;
+    color: #466C3D;
+    align-items: center;
+    display: flex;
+    cursor: pointer;
+  }
+
+  & .learn-btn {
     background: #F7C326;
     color: #466C3D;
+  } 
+
+  & .learn-btn:hover {
+    background: #f0f5dd;
+    color: #466C3D;
+    cursor: pointer;
   } 
 
 `;
