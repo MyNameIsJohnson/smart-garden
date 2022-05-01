@@ -19,7 +19,7 @@ Special thanks to [Jocelyn Bustamante](https://www.linkedin.com/in/jocelynbusta)
 
 ### The challenge
 
-- Develop several React landing pages designed by two of our fellow UX design apprentices.
+- Develop several React landing pages designed by two fellow UX designers.
 
 ### Designs
 
